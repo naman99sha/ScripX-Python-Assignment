@@ -1,11 +1,13 @@
 asgiref==3.6.0
 Django==4.2.1
+django-environ==0.10.0
 django-extensions==3.2.1
 djangorestframework==3.14.0
 numpy==1.24.3
 packaging==23.1
 pandas==2.0.1
 plotly==5.14.1
+psycopg2==2.9.6
 python-dateutil==2.8.2
 pytz==2023.3
 six==1.16.0
